@@ -3,7 +3,7 @@
 const fs = require('fs');
 const _ = require('lodash');
 const path = `${process.cwd()}/directories`;
-
+fs.openSync(path,'a');
 const directories = fs.readFileSync(path, 'utf8').split('\n');
 
 const save = () => {
