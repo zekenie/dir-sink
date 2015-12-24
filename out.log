@@ -1,0 +1,811 @@
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: [Object],
+       _watchers: [Object],
+       _pollers: [Object],
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 23361
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 23629
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 24028
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 24157
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 24219
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 24396
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 24666
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 25438
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 0 []
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 25848
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 2 [ { pid: '25848',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined },
+  { pid: '25438',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 25848
+killing old daemon pid 25438
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 26017
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 3 [ { pid: '26017',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined },
+  { pid: '25848',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined },
+  { pid: '25438',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 26017
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 26333
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 1 [ { pid: '26333',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 26333
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 26543
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 1 [ { pid: '26543',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 26543
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 26790
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 1 [ { pid: '26790',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 26918
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 2 [ { pid: '26918',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined },
+  { pid: '26790',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 26790
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 27093
+[ Watcher {
+    domain: 'https://api.codetutor.me',
+    pattern: '*.png',
+    endpoint: '/screenshots',
+    fieldName: 'screenshot',
+    http: { method: 'POST', headers: [Object] },
+    directory: '/Users/zekenierenberg/Desktop/screenshots',
+    gaze: 
+     Gaze {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       options: [Object],
+       _watched: {},
+       _watchers: {},
+       _pollers: {},
+       _patterns: [Object],
+       _cached: {},
+       _keepalive: [Object] },
+    requestQueue: 
+     RequestQueue {
+       domain: null,
+       _events: [Object],
+       _eventsCount: 1,
+       _maxListeners: undefined,
+       queue: [] } } ]
+process query compelte 2 [ { pid: '27093',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined },
+  { pid: '26918',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 26918
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 27974
+process query compelte 2 [ { pid: '27974',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined },
+  { pid: '27093',
+    command: 'dir-sink',
+    arguments: '',
+    ppid: undefined } ]
+killing old daemon pid 27093
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 28239
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 27974
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-12 at 11.41.09 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-13 at 2.23.19 PM.png detected
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 28388
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 28239
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 28566
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 28388
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-12 at 10.42.10 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-12 at 10.42.10 AM.png detected
+{ [Error: ENOENT: no such file or directory, unlink '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-12 at 10.42.10 AM.png']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-12 at 10.42.10 AM.png' }
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 28738
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 28566
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 28820
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 28738
+gaze watcher ready
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.43.33 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.43.33 PM.png detected
+{ [Error: ENOENT: no such file or directory, unlink '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.43.33 PM.png']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.43.33 PM.png' }
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 28967
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+gaze watcher ready
+killing old daemon pid 28820
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 29048
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 28967
+gaze watcher ready
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-11 at 10.24.55 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-11 at 10.24.55 AM.png detected
+{ [Error: ENOENT: no such file or directory, unlink '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-11 at 10.24.55 AM.png']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-11 at 10.24.55 AM.png' }
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-26 at 10.42.04 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-26 at 10.42.04 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-26 at 10.42.04 AM.png detected
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png detected
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+{ [Error: ENOENT: no such file or directory, unlink '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-26 at 10.42.04 AM.png']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-26 at 10.42.04 AM.png' }
+stream.js:74
+      throw er; // Unhandled stream error in pipe.
+      ^
+
+Error: ENOENT: no such file or directory, open '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-26 at 10.42.04 AM.png'
+    at Error (native)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 29241
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+gaze watcher ready
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png detected
+gaze watcher ready
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png detected
+{ [Error: ENOENT: no such file or directory, unlink '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 6.55.16 PM.png' }
+{ [Error: ENOENT: no such file or directory, unlink '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png']
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png' }
+stream.js:74
+      throw er; // Unhandled stream error in pipe.
+      ^
+
+Error: ENOENT: no such file or directory, open '/Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.44.31 PM.png'
+    at Error (native)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 29555
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 29618
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+killing old daemon pid 29555
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-09 at 9.12.16 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 12.57.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 8.34.06 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-13 at 9.51.53 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-16 at 3.27.23 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-19 at 1.26.42 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-19 at 1.26.50 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-19 at 1.46.01 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-19 at 4.59.10 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-08 at 8.48.01 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-09 at 10.45.58 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-09 at 10.46.05 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-09 at 12.07.57 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-09 at 2.40.32 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-11 at 1.50.12 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-11 at 8.26.16 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-13 at 11.07.30 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-13 at 12.27.24 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-13 at 4.39.18 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-13 at 8.51.19 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-16 at 3.12.19 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-16 at 3.13.59 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-22 at 1.31.56 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-27 at 10.42.07 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 3.30.53 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-30 at 5.53.58 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-10 at 1.39.02 PM.png detected
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+STARTING PID: 30634
+starting to watch /Users/zekenierenberg/Desktop/screenshots for *.png
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-17 at 2.36.40 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-03 at 12.42.23 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-11-17 at 9.36.04 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-12-21 at 4.33.50 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-13 at 6.23.04 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-21 at 9.19.12 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-28 at 12.47.56 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-28 at 3.59.12 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-29 at 10.15.44 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-29 at 10.16.01 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-01 at 3.10.02 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-03 at 1.00.41 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-05 at 12.41.15 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-05 at 12.47.04 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-05 at 12.49.33 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-10-06 at 1.14.45 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-26 at 12.57.31 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-26 at 3.03.26 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-26 at 4.57.58 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.56.50 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.56.57 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.04 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.06 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.16 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.18 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.25 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.29 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.36 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 10.57.39 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 11.32.36 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 11.32.58 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 11.33.01 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 11.36.37 AM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 5.21.20 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-27 at 6.37.45 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-31 at 4.06.40 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-31 at 7.42.28 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-01 at 4.22.19 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-02 at 3.28.16 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-06 at 1.53.10 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-14 at 3.57.33 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-09-14 at 3.57.36 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.41.04 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.03.29 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.31.14 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.40.40 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.42.23 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.44.00 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.44.34 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.44.55 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.57.36 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.57.42 PM.png detected
+  > change in /Users/zekenierenberg/Desktop/screenshots/Screen Shot 2015-08-21 at 4.59.30 PM.png detected

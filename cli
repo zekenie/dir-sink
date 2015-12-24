@@ -1,0 +1,31 @@
+#!/usr/bin/env node
+
+
+'use strict';
+
+const program = require('commander');
+const directoryManager = require('./directory-manager');
+const childProcess = require('child_process');
+const fs = require('fs');
+
+const out = fs.openSync('./out.log', 'a');
+const err = fs.openSync('./out.log', 'a');
+
+program
+  .version('0.0.1')
+  .option('-w --watch', 'Starts all watchers')
+  .option('-a --add [file]', 'Add a new watcher. Specify the location of a directory containing a .dirsinkrc file')
+  .parse(process.argv);
+
+if(program.watch) {
+  const child = childProcess.spawn('node', ['daemon'], {
+    detached: true,
+    stdio: [ 'ignore', out, err ]
+  });
+  child.unref();
+  // process.exit(0);
+}
+
+if(program.add) {
+  directoryManager.add(program.add);
+}
