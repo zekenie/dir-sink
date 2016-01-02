@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const ps  = require('ps-node');
-const pidPath = path.join(process.cwd(), 'pid');
+const pidPath = path.join(__dirname, 'pid');
 
 console.log('-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=');
 console.log('STARTING PID:', process.pid);

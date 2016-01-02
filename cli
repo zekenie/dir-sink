@@ -7,9 +7,10 @@ const program = require('commander');
 const directoryManager = require('./directory-manager');
 const childProcess = require('child_process');
 const fs = require('fs');
+const path = require('path');
 
-const out = fs.openSync('./out.log', 'a');
-const err = fs.openSync('./out.log', 'a');
+const out = fs.openSync(path.join(__dirname, 'out.log'), 'a');
+const err = fs.openSync(path.join(__dirname, 'out.log'), 'a');
 
 program
   .version('0.0.1')
