@@ -19,7 +19,7 @@ program
   .parse(process.argv);
 
 if(program.watch) {
-  const child = childProcess.spawn('node', ['daemon'], {
+  const child = childProcess.spawn('node', [path.join(__dirname, 'daemon')], {
     detached: true,
     stdio: [ 'ignore', out, err ]
   });
